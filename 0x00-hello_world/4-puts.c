@@ -1,5 +1,7 @@
 #include <stdio.h>
 /**
+ * main
+ *
  * Main function
  */ 
 int main(void)
