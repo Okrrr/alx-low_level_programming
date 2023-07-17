@@ -4,7 +4,7 @@
 /* more headers goes there */
 /* main - determine whether a number is positive or negative */
 /* betty style doc for function main goes there */
-/* Return: Always 0 (success)
+/* Return: Always 0 (success) */
 int main(void)
 {
 	int n;
