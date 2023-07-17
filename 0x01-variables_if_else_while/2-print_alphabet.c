@@ -6,10 +6,9 @@
  *
  * Return: Always 0 (success)
  */
-
 int main(void)
 {
-int lowerCase ='a';
+int lowerCase = 'a';
 while (lowerCase <= 'z')
 {
 putchar(lowerCase);
