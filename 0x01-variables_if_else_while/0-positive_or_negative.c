@@ -2,9 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-/* main - determine whether a number is positive or negative */
 /* betty style doc for function main goes there */
-int main(void)
+int main(void)/* main - determine whether a number is positive or negative */ 
 {
 	int n;
 
